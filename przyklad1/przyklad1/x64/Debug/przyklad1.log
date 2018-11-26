@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\wojtek\source\repos\przyklad1\przyklad1\main.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\wojtek\source\repos\przyklad1\przyklad1\main.cpp(47): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\wojtek\source\repos\przyklad1\przyklad1\main.cpp(48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\wojtek\source\repos\przyklad1\przyklad1\main.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\wojtek\source\repos\przyklad1\przyklad1\main.cpp(63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\wojtek\source\repos\przyklad1\przyklad1\main.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  przyklad1.vcxproj -> C:\Users\Wojtek\source\repos\przyklad1\x64\Debug\przyklad1.exe
