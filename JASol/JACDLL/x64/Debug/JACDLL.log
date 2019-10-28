@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  JACDLL.cpp
+c:\users\wojtek\source\repos\sth\jasol\jacdll\jacdll.cpp(29): warning C4273: 'findBorders': inconsistent dll linkage
+  c:\users\wojtek\source\repos\sth\jasol\jacdll\jacdll.h(4): note: see previous definition of 'findBorders'
+  Generating Code...
+     Creating library C:\Users\Wojtek\source\repos\sth\JASol\x64\Debug\JACDLL.lib and object C:\Users\Wojtek\source\repos\sth\JASol\x64\Debug\JACDLL.exp
+  JACDLL.vcxproj -> C:\Users\Wojtek\source\repos\sth\JASol\x64\Debug\JACDLL.dll

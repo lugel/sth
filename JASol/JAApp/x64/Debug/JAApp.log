@@ -1,0 +1,5 @@
+﻿  JAApp.cpp
+c:\users\wojtek\source\repos\sth\jasol\jaapp\jaapp.cpp(10): warning C4273: 'findBorders': inconsistent dll linkage
+  c:\users\wojtek\source\repos\sth\jasol\jacdll\jacdll.h(4): note: see previous definition of 'findBorders'
+c:\users\wojtek\source\repos\sth\jasol\jaapp\jaapp.cpp(61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  JAApp.vcxproj -> C:\Users\Wojtek\source\repos\sth\JASol\x64\Debug\JAApp.exe
